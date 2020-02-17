@@ -1790,9 +1790,9 @@
     "restore": {
       "projectUniqueName": "POM",
       "projectName": "POM",
-      "projectPath": "C:\\Users\\ATC User\\Documents\\UiPath\\POM\\.local",
+      "projectPath": "C:\\Users\\ATC User\\Documents\\GitHub\\Uipath_POM\\.local",
       "packagesPath": "C:\\Users\\ATC User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ATC User\\Documents\\UiPath\\POM\\.local"
+      "outputPath": "C:\\Users\\ATC User\\Documents\\GitHub\\Uipath_POM\\.local"
     },
     "frameworks": {
       "net461": {
